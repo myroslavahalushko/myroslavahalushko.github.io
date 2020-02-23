@@ -148,7 +148,7 @@ p {
 
 a {
 	text-decoration: none;
-	color: brown;
+	color: white;
 	font-size: 20px;
 }
 
@@ -182,85 +182,80 @@ a {
 }
 
 .home {
-	background: #0d47a1;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0d47a1), color-stop(100%, #00e676));
-	background:-webkit-linear-gradient(top, #0d47a1; 0%, #00e676 100%);
-	background:linear-gradient(to bottom, #0d47a1; 0%, #00e676 100%);
+	background: #e6e6e9;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #E6E6E9), color-stop(100%, #d9d9dd));
+	background:-webkit-linear-gradient(top, #E6E6E9; 0%, #d9d9dd 100%);
+	background:linear-gradient(to bottom, #E6E6E9; 0%, #d9d9dd 100%);
 	background-repeat: no-repeat;
 	
 }
 
 .panel1 {
-	background:#00e676;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #1de9b6), color-stop(100%, #ffc107));
-	background: -webkit-linear-gradient(top, #00e676 0%, #ffc107 100%);
-	background: linear-gradient(to bottom, #00e676 0%, #ffc107 100%);
+	background:#d9d9dd;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d9d9dd), color-stop(100%, #ccccd0));
+	background: -webkit-linear-gradient(top, #d9d9dd 0%, #ccccd0 100%);
+	background: linear-gradient(to bottom, #d9d9dd 0%, #ccccd0 100%);
 	background-repeat: no-repeat;
 }
 
 .panel2 {
-	background: #ffc107;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffc107), color-stop(100%, #d32f2f));
-	background: -webkit-linear-gradient(top, #ffc107 0%, #d32f2f 100%);
-	background: linear-gradient(to bottom, #ffc107 0%, #d32f2f 100%);
+	background: #ccccd0;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ccccd0), color-stop(100%, #b9b9be));
+	background: -webkit-linear-gradient(top, #ccccd0 0%, #b9b9be 100%);
+	background: linear-gradient(to bottom, #ccccd0 0%, #b9b9be 100%);
 	background-repeat: no-repeat;
 }
-.parallax{
-	background:#00e676;
-}
 .panel3 {
-	background: #d32f2f;
+	background: #b9b9be;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b9b9be), color-stop(100%, #a6a6ac));
+	background: -webkit-linear-gradient(top, #b9b9be 0%, #a6a6ac 100%);
+	background: linear-gradient(to bottom, #b9b9be 0%, #a6a6ac 100%);
+	background-repeat: no-repeat;
 }
 
-.block1 {
-	opacity: 0.8;
-	text-align: center;
-	background-color: #3479e0; 
-	width: 1200px;
-	height: 60px;
-	margin: 30px auto;
-	margin-right : 110px;
-	margin-top: 0;
-	padding: 40px;    
-    border-radius: 10px;
-    box-shadow: 3px 3px 7 px #000000;
+.panel4 {
+	background: #a6a6ac;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a6a6ac), color-stop(100%, #939399));
+	background: -webkit-linear-gradient(top, #a6a6ac 0%, #939399 100%);
+	background: linear-gradient(to bottom, #a6a6ac 0%, #939399 100%);
+	background-repeat: no-repeat;
 }
 
-.block2 {
-	background-color: #00e676; 
-	width: 200px;
-	height: 500px;
-	margin-top: -450px;
-	margin-left: 1048px; 
- 	margin-right: 100px;
-	padding: 40px;    
-    border-radius: 10px;
-    box-shadow: 3px 3px 7 px #000000;
+.panel5 {
+	background: #939399;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #939399), color-stop(100%, #86868d));
+	background: -webkit-linear-gradient(top, #939399 0%, #86868d 100%);
+	background: linear-gradient(to bottom, #939399 0%, #86868d 100%);
+	background-repeat: no-repeat;
 }
 
-.block3 {
-	background-color: #ffc107; 
-	width: 200px;
-	height: 500px;
-	margin-top: -350px; 
- 	margin-right: 1048px;
-	padding: 40px;    
-    border-radius: 10px;
-    box-shadow: 3px 3px 7 px #000000;
+.panel6 {
+	background: #86868d;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #86868d), color-stop(100%, #73737a));
+	background: -webkit-linear-gradient(top, #86868d 0%, #73737a 100%);
+	background: linear-gradient(to bottom, #86868d 0%, #73737a 100%);
+	background-repeat: no-repeat;
 }
 
-.block4 {	
-	background-color: #d32f2f; 
-	width: 1200px;
-	height: 60px;
-	margin: 10px auto;
-	margin-right : 110px;
-	margin-top: 300px;
-	padding: 40px;    
-    border-radius: 10px;
-    box-shadow: 3px 3px 7 px #000000;
+.panel7 {
+	background: #73737a;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #73737a), color-stop(100%, #6c6c74));
+	background: -webkit-linear-gradient(top, #73737a 0%, #6c6c74 100%);
+	background: linear-gradient(to bottom, #73737a 0%, #6c6c74 100%);
+	background-repeat: no-repeat;
 }
 
+.panel8 {
+	background: #6c6c74;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6c6c74), color-stop(100%, #66666e));
+	background: -webkit-linear-gradient(top, #6c6c74 0%, #66666e 100%);
+	background: linear-gradient(to bottom, #6c6c74 0%, #66666e 100%);
+	background-repeat: no-repeat;
+}
+
+.panel9 {
+	background: #66666e;
+}
 
 .section-bg,
 .layer-object {
@@ -324,30 +319,10 @@ a {
 }
 
 /*Назва шрифту і його колір на кожній секції*/
-.shrift  {
-	
+.shrift  {	
 	font-family: Times New Roman, serif;
 	font-style: italic;
-	font-weight: bold;
-	
-}
-.scolor1 {
-	color: #e3f2fd;
-}
-.scolor2 {
-	
-	color: #000000;
-	
-}
-.scolor3 {
-	text-align: center;
-	color: #4e342e;
-	
-
-}
-.scolor4 {
-	text-align: center;
-	color: #000000;
+	font-weight: bold;	
 }
 
 
@@ -373,3 +348,88 @@ a {
 
 	}
 }
+
+
+.color-block1{
+	background-color: #293B45;
+	margin: 50px;
+	padding: 50px;
+	display: block;
+	opacity: 0.8;
+	color: white;
+}
+
+.color-block2{
+	background-color: #000000;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color: white;
+}
+
+.color-block3{
+	background-color: #ffffff;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color: black;
+}
+
+.color-block4{
+	background-color: white;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color: #4e342e;
+}
+	
+.color-block5{
+	background-color:white;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color: black;
+}
+
+.color-block6{
+	background-color: white;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color: black;
+}
+
+.color-block7{
+	background-color: white;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color: black;
+}
+
+.color-block8{
+	background-color: white;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color:  #1C4062;
+}
+
+.color-block9{
+	background-color: black;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.8;
+	color: white;
+}
+.color-block10{
+	background-color: #4e342e;
+	margin: 50px;
+	padding: 50px;
+	opacity: 0.9;
+	color: white;
+}
+
+
+
+
